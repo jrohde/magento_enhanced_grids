@@ -1,2 +1,2 @@
-app/code/community/Cpcoder              app/code/community/Cpcoder
-app/etc/modules/Cpcoder_Cms.xml         app/etc/modules/Cpcoder_Cms.xml
+app/code/community/Rohde/AdvancedCms    app/code/community/Rohde/AdvancedCms
+app/etc/modules/Rohde_AdvancedCms.xml   app/etc/modules/Rohde_AdvancedCms.xml
